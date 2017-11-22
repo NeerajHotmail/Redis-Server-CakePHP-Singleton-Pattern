@@ -10,3 +10,4 @@ redis server 3.2,
 mysql 5,
 cakephp 1.3
 
+Edited by neeraj hotmail
